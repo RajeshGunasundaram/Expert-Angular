@@ -13,3 +13,10 @@ Angular is a mature technology, and this book starts by showing you best practic
 To easily build applications that look great, you will learn all about template syntax and how to beautify applications with Material Design. Mastering forms and data binding will further speed up your application development time. Learning about managing services and animations will help you to progressively enhance your applications. Next you’ll use native directives to integrate Bootstrap with Angular. You will see the best ways to test your application with the leading options such as Jasmine and Protractor.
 At the end of the book, you’ll learn how to apply design patterns in Angular, and see the benefits they will bring to your development.
 
+## Also available at Amazon
+* [Buy from Amazon US](http://amzn.to/2wlYJHG)
+
+* [Buy from Amazon UK](http://amzn.to/2ffycGx)
+
+* [Buy from Amazon India](http://amzn.to/2jkb2TT)
+
